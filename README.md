@@ -1,2 +1,4 @@
 # hello-world
-getting started on github
+Georgia Tech Yellow Jacket turned Predix Evangelist.
+
+i saw a bear.
